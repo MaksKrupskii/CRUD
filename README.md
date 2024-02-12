@@ -1,13 +1,13 @@
 Simple-CRUD-API
 
-Install packages
+Install packages:
 npm install
 
-Run in development mode
+Run in development mode:
 npm run start:dev
 
-Run in producion mode
+Run in producion mode:
 npm run start:prod
 
-Run test
+Run test:
 npm run test
